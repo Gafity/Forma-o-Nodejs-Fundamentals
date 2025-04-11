@@ -1,0 +1,12 @@
+{
+  "name": "mario-kart",
+  "version": "1.0.0",
+  "description": "Desafio da dio",
+  "license": "ISC",
+  "author": "Gabriel Gama",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
