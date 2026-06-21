@@ -1,0 +1,9 @@
+@base_url = localhost:3333
+
+# @name getApiList
+GET {{base_url}}/api/list HTTP/1.1
+accept: application/json
+
+# @name FilterEpisode
+GET {{base_url}}/api/list HTTP/1.1
+accept: application/json
