@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-interface PodcastModel {
+export interface PodcastModel {
   podcastName: string;
   episode: string;
   videoId: string;
